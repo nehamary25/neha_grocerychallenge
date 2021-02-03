@@ -1,0 +1,57 @@
+{
+    "items":[
+        
+        {
+            "sno":"1",
+            "name": "Milk",
+            "department":"Diary and Eggs",
+            "qty":"500",
+            "unit":"ml",
+            "notes":"Milma"
+        },
+        {
+            "sno":"2",
+            "name": "Egg",
+            "department":"Diary and Eggs",
+            "qty":"10",
+            "unit":"nos",
+            "notes":"Chicken"
+        },
+        {
+            "sno":"3",
+            "name": "Onion",
+            "department":"Vegetables",
+            "qty":"1",
+            "unit":"Kg",
+            "notes":"-"
+        },
+        {
+            "sno":"4",
+            "name": "Carrot",
+            "department":"Vegetables",
+            "qty":"500",
+            "unit":"gm",
+            "notes":"-"
+        },
+        {
+            "sno":"5",
+            "name": "Tomato",
+            "department":"Vegetables",
+            "qty":"500",
+            "unit":"gm",
+            "notes":"Small size"
+        },
+        
+        
+        {
+            "sno":"6",
+            "name": "Sanitizer",
+            "department":"Health Care",
+            "qty":"1",
+            "unit":"Bottle",
+            "notes":"Small bottle"
+        }
+        
+       
+    ]
+}
